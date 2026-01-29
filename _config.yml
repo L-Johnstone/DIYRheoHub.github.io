@@ -17,11 +17,11 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://rheologycomics.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Rheology Comics
-email      : rheologycomics@gmail.com #this is also the email contact forms will go to
-description: "Comics about rheology!"
+title      : DIY Rheology Hub
+email      : rheohiolab@gmail.com #this is also the email contact forms will go to
+description: "A platform for community-driven DIY rheology projects"
 author     : 
-keywords   : "rheology, comics, rheocomics"
+keywords   : "rheology, DIY, science outreach"
 logo:     #optional, defaults to site title
   path: assets\img\bowlcat_text_transparent.png
   height: 60 #height in px, defaults to 52px

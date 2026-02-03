@@ -139,7 +139,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Follow us on Instagram or email us at rheologycomics@gmail.com"
+    text: "Email us at rheohiolab@gmail.com"
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"
@@ -149,9 +149,9 @@ en: &DEFAULT_EN
       #  icon: "fab fa-linkedin-in"
       #- url: https://github.com/raviriley/agency-jekyll-theme
       #  icon: "fab fa-github"
-      - url: https://instagram.com/rheologycomics
-        icon: "fab fa-instagram"
-      - url: mailto:rheologycomics@gmail.com
+      # - url: https://instagram.com/rheologycomics
+      #   icon: "fab fa-instagram"
+      - url: mailto:rheohiolab@gmail.com
         icon: "fas fa-envelope"
     #section: contact
     #name: "Name*"

@@ -23,7 +23,7 @@ description: "A platform for community-driven DIY rheology projects"
 author     : 
 keywords   : "rheology, DIY, science outreach"
 logo:     #optional, defaults to site title
-  path: assets\img\bowlcat_text_transparent.png
+  path: assets\img\3DP_rheo_logo_small.png
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml

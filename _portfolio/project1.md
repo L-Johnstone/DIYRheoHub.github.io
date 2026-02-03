@@ -1,15 +1,15 @@
 ---
-title: Rheology of Cats
-#subtitle: Are cats solid or liquid? 
+title: Low Cost Rotational Viscometer
+#subtitle: What to put here?
 image: assets/img/portfolio/RC1-full.webp
 alt: Three cartoon cats, one sitting as a solid, one sloshing in a bowl as lliquid, and one stretching it's body across the page in loops.
 
 caption:
-  title: Rheology of Cats 
-  subtitle: Rheology Comics 1
+  title: Low Cost Rotational Viscometer
+  subtitle: A fun simple starting project
   thumbnail: assets/img/portfolio/RC1-thumbnail.webp
 ---
-Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of cats” (2014), this comic describes the fundamentals of rheology with the aid of our favorite felines.
+Add your own text here to see if you can change things
 
 {:.list-inline}
 - English: [WEB](/comic1-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)

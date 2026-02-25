@@ -77,8 +77,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     #text: "Funded by the Society of Rheology's Rheology Venture Fund (2025)."
-    body: The DIY Rheology Hub is an homepage that provides access to “do-it-yourself” (DIY) low-cost rheology instruments. <br><br> Soft, stretchy, and sticky materials are a part of our daily life. While we personally interact through our senses, it is more challenging to access reliable quantitative data on rheological properties such as viscosity, yeild stress, or modulus. The DIY Rheo Hub puts the power in your hand to build and experiment with simple and accessible rheometer designs that you can make yourself <br><br> Below, you will find a collection of curated links to instruction manuals, CAD design files to build and use your own rheological device <br><br> Designs are available for all ages to test soft materials and complex fluids at a range of cost points and construction difficulties <br><br> Funded by the Society of Rheology's Rheology Venture Fund (2025).
-    body: 
+    body: The DIY Rheology Hub is an homepage providing access to “do-it-yourself” (DIY) low-cost rheology instruments. <br><br> Soft, stretchy, and sticky materials are a part of our daily life. While we personally interact through our senses, it is more challenging to access reliable quantitative data on rheological properties such as viscosity, yeild stress, or modulus. The DIY Rheo Hub puts the power in your hand to build and experiment with simple and accessible rheometer designs that you can make yourself <br><br> Below, you will find a collection of curated links to instruction manuals, CAD design files to build and use your own rheological device <br><br> Designs are available for all ages to test soft materials and complex fluids at a range of cost points and construction difficulties <br><br><br> Funded by the Society of Rheology's Rheology Venture Fund (2025).
     section: about
 
   clients:

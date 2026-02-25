@@ -107,24 +107,24 @@ en: &DEFAULT_EN
     people:
       - name: "Prof. Aashish Priye"
         role: "co-PI"
-        image: assets/img/team/citation.jpeg
+        image: assets/img/team/citations.jpeg
         #image: assets/img/team/500x500.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/rob10campbell/
+          - url: https://www.linkedin.com/in/aashish-priye-00a33a14a/
             icon: fab fa-linkedin-in
       - name: "Prof. Ben Yavitt"
         role: "co-PI"
-        image: assets/img/team/yavitt-ben_UCheadshot.jpg
+        image: assets/img/team/yavitt-ben_UCheadshot.jpeg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/carolinemartin/
+          - url: https://www.linkedin.com/in/benjamin-yavitt-6b4898a9/
             icon: fab fa-linkedin-in
       #- name: "Diana Perterson"
       #  role: "Lead Developer"

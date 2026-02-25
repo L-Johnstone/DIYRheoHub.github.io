@@ -105,9 +105,9 @@ en: &DEFAULT_EN
     #subtext: Educational Consultants Victoria Russell and Kelsey Briselli<br> Translators Yuna Hattori, Sandrine Burriel, Foteini Delisavva, Paniz Haghighi, Simona Carotenuto, Cornelia Küchenmeister-Lehrheuer, Bana Shriky, Sonia R. Raga, Blanka Collis, Ravisara Wattana, Jonghyun Hwang, Arshiya Bhadu, Raysa Gomes, Alp Sunol
     section: team
     people:
-      - name: "XXX"
-        role: "Role"
-        image: assets/img/team/Rob.jpeg
+      - name: "Prof. Aashish Priye"
+        role: "co-PI"
+        image: assets/img/team/citation.jpeg
         #image: assets/img/team/500x500.jpg
         social:
           #- url: https://twitter.com
@@ -116,9 +116,9 @@ en: &DEFAULT_EN
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/rob10campbell/
             icon: fab fa-linkedin-in
-      - name: "XXX"
-        role: "Role"
-        image: assets/img/team/Caroline.jpg
+      - name: "Prof. Ben Yavitt"
+        role: "co-PI"
+        image: assets/img/team/yavitt-ben_UCheadshot.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter

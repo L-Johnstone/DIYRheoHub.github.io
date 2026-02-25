@@ -10,6 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/Project1_thumb_small.png
 ---
 A fun simple project to measure the viscosity of simple Newtonain and non-Newtonain fluids
+
 {:.list-inline}
 - Cost: $
 - Difficulty: XX

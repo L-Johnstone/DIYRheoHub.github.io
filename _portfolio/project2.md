@@ -7,7 +7,7 @@ alt:
 caption:
   title: Torsion-Based Rheometer
   subtitle: For measuring viscoelastic behavior
-  thumbnail: assets/img/portfolio/placeholder.jpg
+  thumbnail: assets/img/portfolio/Project2_thumb_small.jpg
 ---
 A functional, portable shear rheometer designed to collect viscoelasticity data. Perfect for high school students as well as for use in the field.
 

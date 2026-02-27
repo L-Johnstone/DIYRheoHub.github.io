@@ -9,8 +9,7 @@ caption:
   subtitle: A fun simple starting project
   thumbnail: assets/img/portfolio/Project1_thumb_small.png
 ---
-A fun simple project to measure the viscosity of simple Newtonain and non-Newtonain fluids
-Original design by Miriam Knutson, Sasanka P. Weerakoon, C. J. Ticknor, Benjamin M. Yavitt, and Aashish Priye from University of Cincinnati
+A fun simple project to measure the viscosity of simple Newtonain and non-Newtonain fluids. Original design by Miriam Knutson, Sasanka P. Weerakoon, C. J. Ticknor, Benjamin M. Yavitt, and Aashish Priye from University of Cincinnati
 
 {:.list-inline}
 - Cost: $

@@ -10,11 +10,12 @@ caption:
   thumbnail: assets/img/portfolio/Project2_thumb_small.jpg
 ---
 A functional, portable shear rheometer designed to collect viscoelasticity data. Perfect for high school students as well as for use in the field.
-Original design by Merrill Asp, Elise Jutzeler, Jakub Kochanowski, Katherine Kerr, Dawei Song, Sarthak Gupta, Bobby Carroll, and Alison Patteson from Syracuse University, University of Pennsylvania, Purdue University, and Jamesville-Dewitt High School
+
 
 {:.list-inline}
 - Cost: $
 - Difficulty: X
 - Requirements: Minor Electroic Components
 
-Check out [the open access paper](https://thebiophysicist.kglmeridian.com/view/journals/biop/3/2/article-p94.xml) for more info. 
+Original design by Merrill Asp, Elise Jutzeler, Jakub Kochanowski, Katherine Kerr, Dawei Song, Sarthak Gupta, Bobby Carroll, and Alison Patteson from Syracuse University, University of Pennsylvania, Purdue University, and Jamesville-Dewitt High School
+Check out [the open access paper](https://thebiophysicist.kglmeridian.com/view/journals/biop/3/2/article-p94.xml) for more info.

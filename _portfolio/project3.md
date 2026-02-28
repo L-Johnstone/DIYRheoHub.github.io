@@ -16,5 +16,5 @@ A 3D printed, robust, open-source Couette Rheometer with commercially comparable
 - Difficulty: XX
 - Requirements: 3D printer
 
-Original design by Makita Erni, A. John Hart, David Trumper & Crystal E. Owens from MIT
+Original design by Makita Erni, A. John Hart, David Trumper & Crystal E. Owens from MIT <br><br>
 Check out [the open access paper](https://www.nature.com/articles/s41598-024-76494-8) for more info.

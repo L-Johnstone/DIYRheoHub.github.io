@@ -16,5 +16,5 @@ A fun simple project to measure the viscosity of simple Newtonain and non-Newton
 - Difficulty: XX
 - Requirements: 3D printer
  
-Original design by Miriam Knutson, Sasanka P. Weerakoon, C. J. Ticknor, Benjamin M. Yavitt, and Aashish Priye from University of Cincinnati
+Original design by Miriam Knutson, Sasanka P. Weerakoon, C. J. Ticknor, Benjamin M. Yavitt, and Aashish Priye from University of Cincinnati <br><br>
 Check out [the paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.4c01490) for more info.

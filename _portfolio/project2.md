@@ -1,7 +1,7 @@
 ---
 title: A Torsion-Based Rheometer for  Measuring Viscoelastic Material  Properties
 #subtitle: Your mouth is a rheometer 
-#image: assets/img/portfolio/RC2-full.webp
+image: assets/img/portfolio/Project2_full.png
 alt:
 
 caption:
@@ -16,5 +16,5 @@ A functional, portable shear rheometer designed to collect viscoelasticity data.
 - Difficulty: X
 - Requirements: Minor Electroic Components
 
-Original design by Merrill Asp, Elise Jutzeler, Jakub Kochanowski, Katherine Kerr, Dawei Song, Sarthak Gupta, Bobby Carroll, and Alison Patteson from Syracuse University, University of Pennsylvania, Purdue University, and Jamesville-Dewitt High School
+Original design by Merrill Asp, Elise Jutzeler, Jakub Kochanowski, Katherine Kerr, Dawei Song, Sarthak Gupta, Bobby Carroll, and Alison Patteson from Syracuse University, University of Pennsylvania, Purdue University, and Jamesville-Dewitt High School <br><br>
 Check out [the open access paper](https://thebiophysicist.kglmeridian.com/view/journals/biop/3/2/article-p94.xml) for more info.

@@ -1,7 +1,7 @@
 ---
 title: A low-cost, open-source cylindrical  Couette rheometer
 #subtitle: Coming Soon 
-#image: assets/img/portfolio/RC3-full.webp
+#image: assets/img/portfolio/Project3_full.png
 alt: 
 
 caption:

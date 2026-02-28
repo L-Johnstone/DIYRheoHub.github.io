@@ -7,7 +7,7 @@ alt:
 caption:
   title: The Open Source Rheometer (OSR)
   subtitle: A robust rotational rheometer
-  thumbnail: assets/img/portfolio/Project2_thumb_small.png
+  thumbnail: assets/img/portfolio/Project3_thumb_small.png
 ---
 A 3D printed, robust, open-source Couette Rheometer with commercially comparable sensitivity and precision
 
